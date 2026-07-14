@@ -1,0 +1,6 @@
+[submodule "Plugins/glTFRuntime"]
+	path = Plugins/glTFRuntime
+	url = https://github.com/rdeioris/glTFRuntime
+[submodule "Plugins/glTFRuntimeWebP"]
+	path = Plugins/glTFRuntimeWebP
+	url = https://github.com/rdeioris/glTFRuntimeWebP
