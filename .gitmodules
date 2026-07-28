@@ -1,6 +1,6 @@
 [submodule "Plugins/glTFRuntime"]
 	path = Plugins/glTFRuntime
-	url = https://github.com/rdeioris/glTFRuntime
+	url = git@github.com:CYENS/glTFRuntimeLoomaXR.git
 [submodule "Plugins/glTFRuntimeWebP"]
 	path = Plugins/glTFRuntimeWebP
-	url = https://github.com/rdeioris/glTFRuntimeWebP
+	url = git@github.com:CYENS/glTFRuntimeWebPLoomaXR.git
