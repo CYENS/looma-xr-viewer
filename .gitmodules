@@ -1,6 +1,8 @@
 [submodule "Plugins/glTFRuntime"]
 	path = Plugins/glTFRuntime
 	url = git@github.com:CYENS/glTFRuntimeLoomaXR.git
+	ignore = untracked
 [submodule "Plugins/glTFRuntimeWebP"]
 	path = Plugins/glTFRuntimeWebP
 	url = git@github.com:CYENS/glTFRuntimeWebPLoomaXR.git
+	ignore = untracked
