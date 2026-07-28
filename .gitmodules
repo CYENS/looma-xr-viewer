@@ -4,3 +4,7 @@
 [submodule "Plugins/glTFRuntimeWebP"]
 	path = Plugins/glTFRuntimeWebP
 	url = https://github.com/rdeioris/glTFRuntimeWebP
+[submodule "Plugins/LoomaSceneSync"]
+	path = Plugins/LoomaSceneSync
+	url = git@github.com:CYENS/looma-scene-sync-plugin.git
+	branch = main
