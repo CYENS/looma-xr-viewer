@@ -6,3 +6,8 @@
 	path = Plugins/glTFRuntimeWebP
 	url = git@github.com:CYENS/glTFRuntimeWebPLoomaXR.git
 	ignore = untracked
+	branch = main
+[submodule "Plugins/LoomaSceneSync"]
+	path = Plugins/LoomaSceneSync
+	url = git@github.com:CYENS/looma-scene-sync-plugin.git
+	branch = main
